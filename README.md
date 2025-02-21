@@ -6,7 +6,7 @@
 
 ## 👉**Introduction**
 
-<p>This template provides a solid foundation for modern JavaScript development, streamlining your workflow with a powerful combination of tools.  It leverages Webpack for efficient bundling and optimization of your assets, ensuring top-notch performance.  Integrated within this setup are ESLint for maintaining code quality and catching potential errors, Prettier for enforcing a consistent and clean code style, and Babel for transpiling your JavaScript code to ensure compatibility across different browsers.  This pre-configured environment saves you valuable time and effort, allowing you to focus on building your application's core logic rather than wrestling with complex configurations.  It's an ideal starting point for projects of any size, offering a robust and scalable architecture from the get-go.</p>
+<p>This template provides a solid foundation for modern <strong>JavaScript</strong> development, streamlining your workflow with a powerful combination of tools.  It leverages <strong>Webpack</strong> for efficient bundling and optimization of your assets, ensuring top-notch performance.  Integrated within this setup are <strong>ESLint</strong> for maintaining code quality and catching potential errors, <strong>Prettier</strong> for enforcing a consistent and clean code style, and <strong>Babel</strong> for transpiling your JavaScript code to ensure compatibility across different browsers.  This pre-configured environment saves you valuable time and effort, allowing you to focus on building your application's core logic rather than wrestling with complex configurations.  It's an ideal starting point for projects of any size, offering a robust and scalable architecture from the get-go.</p>
 
 ## 💻**Installation**
 
@@ -62,7 +62,7 @@ To use `template-webpack`, follow these steps:
 
 ## 🧑‍🤝‍🧑**Contributing**
 
-If you'd like to contribute to 'To-do or not to-do', here are some guidelines:
+If you'd like to contribute to 'Template Webpack', here are some guidelines:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
