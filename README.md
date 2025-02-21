@@ -37,7 +37,28 @@ To use `template-webpack`, follow these steps:
 4. Start the project: **`npm run dev`**
 5. Configure eslint to fit your project **`npm init @eslint/config@latest`**
 6. To run eslint you can do **`npm run config /path/to/js`** ( change `/path/to/js` to the file or folder you want to lint)
-7. Use the project as desired.
+7. When everything is right the dependencies in `package.json` will be like this:
+
+   ```
+   "devDependencies": {
+    "@babel/core": "^7.26.9",
+    "@babel/preset-env": "^7.26.9",
+    "@eslint/js": "^9.20.0",
+    "babel-loader": "^9.2.1",
+    "css-loader": "^7.1.2",
+    "eslint": "^8.57.1",
+    "globals": "^16.0.0",
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.3",
+    "prettier": "3.5.1",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+   },
+10. in `/src/` there are templates for main `html`, `css` and `javascript` files. 
+9. Use the project as desired.
+
 
 ## 🧑‍🤝‍🧑**Contributing**
 
