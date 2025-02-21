@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
@@ -38,6 +39,19 @@ module.exports = {
         test: /\.(png|svg|jpg|jpeg|gif)$/i,
         type: "asset/resource",
       },
+      {
+        test: /\.(?:js|mjs|cjs)$/,
+        exclude: /node_modules/,
+        use: {
+          loader: 'babel-loader',
+          options: {
+            targets: "defaults",
+            presets: [
+              ['@babel/preset-env']
+            ]
+          }
+        }
+      }
     ],
   },
 };
