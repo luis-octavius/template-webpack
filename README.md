@@ -12,8 +12,8 @@
 
 To install Template Webpack, follow these steps:
 
-1. Clone the repository: **`git clone https://github.com/username/project-title.git`**
-2. Navigate to the project directory: **`cd project-title`**
+1. Clone the repository: **`git clone https://github.com/Big-Plato/template-webpack.git`**
+2. Navigate to the project directory: **`cd template webpack`**
 3. Install dependencies: **`npm install`**
 4. Build the project: **`npm run build`**
 5. Start the project: **`npm run dev`**
