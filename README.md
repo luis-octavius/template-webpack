@@ -10,7 +10,7 @@
 
 ## 💻**Installation**
 
-To install Project Title, follow these steps:
+To install Template Webpack, follow these steps:
 
 1. Clone the repository: **`git clone https://github.com/username/project-title.git`**
 2. Navigate to the project directory: **`cd project-title`**
@@ -79,7 +79,7 @@ Template Webpack is released under the MIT License. See the **[LICENSE](https://
 
 ## 🙋**Authors and Acknowledgment**
 
-Template webpack was created by **[Luis Octávio](https://github.com/Big-Plato)**.
+Template Webpack was created by **[Luis Octávio](https://github.com/Big-Plato)**.
 
 <!--
 Additional contributors include:
