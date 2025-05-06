@@ -4,11 +4,11 @@
 
 <p align="center"><strong>Template Webpack</strong></p>
 
-## 👉**Introduction**
+## 👉 **Introduction**
 
 <p>This template provides a solid foundation for modern <strong>JavaScript</strong> development, streamlining your workflow with a powerful combination of tools.  It leverages <strong>Webpack</strong> for efficient bundling and optimization of your assets, ensuring top-notch performance.  Integrated within this setup are <strong>ESLint</strong> for maintaining code quality and catching potential errors, <strong>Prettier</strong> for enforcing a consistent and clean code style, and <strong>Babel</strong> for transpiling your JavaScript code to ensure compatibility across different browsers.  This pre-configured environment saves you valuable time and effort, allowing you to focus on building your application's core logic rather than wrestling with complex configurations.  It's an ideal starting point for projects of any size, offering a robust and scalable architecture from the get-go.</p>
 
-## 💻**Installation**
+## 💻 **Installation**
 
 To install Template Webpack, follow these steps:
 
@@ -18,7 +18,7 @@ To install Template Webpack, follow these steps:
 4. Build the project: **`npm run build`**
 5. Start the project: **`npm run dev`**
 
-## 🔩**Tools**
+## 🔩 **Tools**
 <div style="display: flex">
 <img src="https://img.shields.io/badge/webpack-black?style=plastic&logo=webpack"/>
 <img src="https://img.shields.io/badge/npm-black?style=plastic&logo=npm"/>
@@ -27,7 +27,7 @@ To install Template Webpack, follow these steps:
 <img src="https://img.shields.io/badge/babel-black?style=plastic&logo=babel"/>
 </div>
 
-## ▶**Usage**
+## ▶ **Usage**
 
 To use `template-webpack`, follow these steps:
 
@@ -39,7 +39,7 @@ To use `template-webpack`, follow these steps:
 6. To run eslint you can do **`npm run config /path/to/js`** ( change `/path/to/js` to the file or folder you want to lint)
 7. When everything is right the dependencies in `package.json` will be like this:
 
-   ```
+   ```json
    "devDependencies": {
     "@babel/core": "^7.26.9",
     "@babel/preset-env": "^7.26.9",
@@ -60,7 +60,7 @@ To use `template-webpack`, follow these steps:
 9. Use the project as desired.
 
 
-## 🧑‍🤝‍🧑**Contributing**
+## 🧑‍🤝‍🧑 **Contributing**
 
 If you'd like to contribute to 'Template Webpack', here are some guidelines:
 
@@ -73,11 +73,11 @@ If you'd like to contribute to 'Template Webpack', here are some guidelines:
 7. Push your changes to your forked repository.
 8. Submit a pull request.
 
-## 📖**License**
+## 📖 **License**
 
 Template Webpack is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
 
-## 🙋**Authors and Acknowledgment**
+## 🙋 **Authors and Acknowledgment**
 
 Template Webpack was created by **[Luis Octávio](https://github.com/Big-Plato)**.
 
@@ -92,7 +92,7 @@ Additional contributors include:
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. See the **[CODE_OF_CONDUCT.md](https://www.blackbox.ai/share/CODE_OF_CONDUCT.md)** file for more information. -->
 
-## ☎**Contact**
+## ☎ **Contact**
 
 If you have any questions or comments about this template, please contact **[Luis Octávio](luisoctavius.sc@gmail.com)**.
 
